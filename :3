@@ -1,1 +1,4 @@
-git clone https://github.com/peterthehan/create-discord-bot.git
+git clone: https://github.com/peterthehan/create-discord-bot.git
+cd: create-discord-bot/
+npm: install
+token.json
