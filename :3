@@ -3,6 +3,5 @@ cd create-discord-bot/
 npm install
 token.json
 {
-  "TOKEN": "NzA0MzI4NDYxMDQ4NjEwODc2.XqnCLg.Z5xcbLj8ITIo6EMZhuoL0DwULhQ"
 }
 npm start
